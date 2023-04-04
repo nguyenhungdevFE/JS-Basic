@@ -1,3 +1,7 @@
-let x = 5, y = 6, z = 7;
-console.log("TestString",'x=', x,'y= ', y,'z=', z); // code không lỗi
-console.log("TestString", + 'x=' + x + 'y= '+ y + 'z=' + z);
+// Strings Methods
+
+let a = 'Tôi là một string - chuỗi';
+
+console.log(a);
+console.log(4 + 5 + 'a');
+console.log('a' + 4 + 5);
